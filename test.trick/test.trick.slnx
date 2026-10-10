@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="test.trick.vcxproj" Id="46c1b4c9-9456-4a31-9ad5-067503170cd3" />
+</Solution>
